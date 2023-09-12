@@ -1,4 +1,4 @@
 # IMDB-clone 
 
 
-visit this side  https://prakashuniyal01.github.io/IMDB/
+visit this side  https://app.netlify.com/sites/clinquant-seahorse-4ca18c/overview
